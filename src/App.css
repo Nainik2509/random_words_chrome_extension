@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  margin-top: 15rem;
+  font-size: 36px;
+}
+
+h1,
+h3 {
+  color: #26b67c;
+}
+
+h3 {
+  font-size: 24px;
+}
